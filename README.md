@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧙🏼‍♂️ About Me:
 🔭 I’m currently working on building responsive websites and my personal portfolio.<br>👯 I’m looking to collaborate on beginner-friendly open source projects.<br>🤝 I’m looking for help with JavaScript/CSS best practices.<br>🌱 I’m currently learning JavaScript, DOM manipulation, and CSS animations.<br>💬 Ask me about my journey into tech.<br>⚡ Fun fact I spend more time centering divs than I care to admit!
 
 
