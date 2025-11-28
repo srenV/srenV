@@ -3,7 +3,21 @@
 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img-shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="150"/>
+      </td>
+      <td>
+        <img src="https://img-shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" width="150"/>
+      </td>
+      <td>
+        <img src="https://img-shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" width="150"/>
+      </td>
+    </tr>
+  </table>
+</div>
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=srenV&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
 
