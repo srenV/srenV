@@ -8,20 +8,20 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=srenV&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=srenV&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="100%"/>
+## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote Badge"/>
+</div>
+
+# 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srenV&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Stats" width="100%"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=srenV&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://nirzak-streak-stats.vercel.app/?user=srenV&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="100%"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=srenV&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=srenV&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
