@@ -1,5 +1,5 @@
 # 🧙🏼‍♂️ About Me:
-🔭 I’m currently working on building responsive websites and my personal portfolio.<br>👯 I’m looking to collaborate on beginner-friendly open source projects.<br>🤝 I’m looking for help with JavaScript/CSS best practices.<br>🌱 I’m currently learning JavaScript, DOM manipulation, and CSS animations.<br>💬 Ask me about my journey into tech.<br>⚡ Fun fact I spend more time centering divs than I care to admit!
+🔭 I’m currently working on building responsive websites and my personal portfolio.<br>👥 I’m looking to collaborate on beginner-friendly open source projects.<br>🤝 I’m looking for help with JavaScript/CSS best practices.<br>🌱 I’m currently learning JavaScript, DOM manipulation, and CSS animations.<br>💬 Ask me about my journey into tech.<br>⚡ Fun fact I spend more time centering divs than I care to admit! <br> <br>🧙🏼‍♂️ In my Opinion Coding comes pretty close to Magic, when we write our code in the right order and in the correct context we can create great things just with our imagination. <br> <br> 📖 I aim to improve this ability, and I am thankful for anything that helps me make progress.
 
 
 # 💻 Tech Stack:
