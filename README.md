@@ -10,7 +10,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   
   <br/>
-  <img src="https://img.shields.io/badge/React(Learning)-1572B6?style=for-the-badge&logo=React&logoColor=cyan" alt="React Learning"/>
+  <br/>
+
+  Currently learning: <br/>
+  <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Framer%20Motions-000000?style=for-the-badge&logo=Framer&logoColor=white" />
+
 </div>
 
 ## ✍️ Random Dev Quote
